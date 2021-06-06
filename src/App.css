@@ -5,6 +5,7 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -20,7 +21,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(5px + 2vmin);
   color: white;
 }
 
@@ -36,3 +37,19 @@
     transform: rotate(360deg);
   }
 }
+
+/* #video-text h1{
+  color:white;
+  text-align: center;
+  font-size: 130px;
+}
+
+#video-text pre{
+  color:white;
+  font-size:20px;
+} */
+
+Footer {
+  text-align: center;
+}
+
